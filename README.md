@@ -7,7 +7,7 @@ Link: https://www.youtube.com/watch?v=eYVGoXPq2RA&ab_channel=Telusko
 
 SAMPLE SCREENSHOT OF THE APPLICATION:
 
-![Screenshot](https://github.com/sinhaamitsde/MERN_CRUDBackEnd/main/ScreenShot/Delete_1_Alien.JPG)
+![Screenshot](https://github.com/sinhaamitsde/MERN_CRUDBackEnd/tree/main/ScreenShot/Delete_1_Alien.JPG)
 
 What the application does:
 Alien refers to any programmer with name, techstack and isMarvelFan as attributes.
