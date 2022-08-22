@@ -7,7 +7,15 @@ Link: https://www.youtube.com/watch?v=eYVGoXPq2RA&ab_channel=Telusko
 
 SAMPLE SCREENSHOT OF THE APPLICATION:
 
-![Screenshot](https://github.com/sinhaamitsde/MERN_CRUDBackEnd/tree/main/ScreenShot/Delete_1_Alien.JPG)
+![GETALL](https://github.com/sinhaamitsde/MERN_CRUDBackEnd/blob/main/ScreenShot/Get_All_Aliens.JPG?raw=true)
+
+![GETONE](https://github.com/sinhaamitsde/MERN_CRUDBackEnd/blob/main/ScreenShot/GET_One_Alien.JPG?raw=true)
+
+![POSTONE](https://github.com/sinhaamitsde/MERN_CRUDBackEnd/blob/main/ScreenShot/POST_Request.JPG?raw=true)
+
+![PATCHONE](https://github.com/sinhaamitsde/MERN_CRUDBackEnd/blob/main/ScreenShot/Get_All_Aliens.JPG?raw=true)
+
+![DELETEONE](https://github.com/sinhaamitsde/MERN_CRUDBackEnd/blob/main/ScreenShot/Delete_1_Alien.JPG?raw=true)
 
 What the application does:
 Alien refers to any programmer with name, techstack and isMarvelFan as attributes.
