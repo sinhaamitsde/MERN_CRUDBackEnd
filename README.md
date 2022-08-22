@@ -1,7 +1,11 @@
+## INTRODUCTION:
+
 This is a personal project used for learning MERN backend from the scratch.
 In this project, I have configured all the backend CRUD requests for the Alien Application.
 I have used this tutorial from youtube and coded this application.
 Link: https://www.youtube.com/watch?v=eYVGoXPq2RA&ab_channel=Telusko
+
+SAMPLE SCREENSHOT OF THE APPLICATION:
 
 What the application does:
 Alien refers to any programmer with name, techstack and isMarvelFan as attributes.
